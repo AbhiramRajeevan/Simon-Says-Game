@@ -1,1 +1,1 @@
-Simple Simon Says Game using JS
+Simple Simon Says Game using HTML,CSS and JS
