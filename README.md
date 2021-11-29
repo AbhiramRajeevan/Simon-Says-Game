@@ -1,1 +1,1 @@
-# Simon-Says-Game
+Simple Simon Says Game using JS
